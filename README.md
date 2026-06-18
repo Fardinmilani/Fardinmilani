@@ -14,11 +14,11 @@
 
 ## About
 
-I build decision-support systems at the intersection of **Industrial Engineering** and **software** — tools that turn messy uncertainty into clear, actionable insight.
+I build decision-support systems at the intersection of **Industrial Engineering** and **software** - tools that turn messy uncertainty into clear, actionable insight.
 
 B.Sc. Industrial Engineering · Shahid Beheshti University · GPA 3.9/4.0  
 Currently building **OpsFlow**, a Monte Carlo simulation platform for enterprise project risk.  
-Targeting **M.Sc. → PhD** in Industrial Engineering at top US research programs.
+Targeting **M.Sc. → PhD** in Industrial Engineering at top research programs.
 
 ---
 
@@ -40,7 +40,7 @@ Targeting **M.Sc. → PhD** in Industrial Engineering at top US research program
 ---
 
 ### 🟡 [UrbanFlow](https://github.com/Fardinmilani/UrbanFlow)
-> Open-source Python library for urban transport network analysis — trace paths, identify critical connections, simulate disruption scenarios.
+> Open-source Python library for urban transport network analysis - trace paths, identify critical connections, simulate disruption scenarios.
 
 `Python` `NetworkX` `Jupyter`
 
@@ -53,7 +53,7 @@ Targeting **M.Sc. → PhD** in Industrial Engineering at top US research program
 
 ---
 
-### 🔵 Tehran BRT Line 1 — Monte Carlo Case Study
+### 🔵 Tehran BRT Line 1 - Monte Carlo Case Study
 > Research project: dynamic headway optimization for Tehran's Bus Rapid Transit using Monte Carlo simulation. Result: **74% reduction in stranded passengers**.
 
 `Python` `SimPy` `Monte Carlo Simulation`
@@ -62,13 +62,13 @@ Targeting **M.Sc. → PhD** in Industrial Engineering at top US research program
 
 ## Core Skills
 
-**Simulation & OR** — Monte Carlo methods · Discrete-event simulation · Linear & integer programming · Project scheduling (CPM/PERT) · Stochastic modeling
+**Simulation & OR** - Monte Carlo methods · Discrete-event simulation · Linear & integer programming · Project scheduling (CPM/PERT) · Stochastic modeling
 
-**Machine Learning** — Supervised learning (classification + regression) · Ensemble methods (RF, XGBoost, CatBoost) · AHP multi-criteria decision making · Statistical analysis & distribution fitting
+**Machine Learning** - Supervised learning (classification + regression) · Ensemble methods (RF, XGBoost, CatBoost) · AHP multi-criteria decision making · Statistical analysis & distribution fitting
 
-**Software Engineering** — Full-stack web development (Django + React) · REST API design · PostgreSQL · System architecture · Open-source library development
+**Software Engineering** - Full-stack web development (Django + React) · REST API design · PostgreSQL · System architecture · Open-source library development
 
-**Research** — Operations research · Risk analysis · Transport systems optimization · Academic writing
+**Research** - Operations research · Risk analysis · Transport systems optimization · Academic writing
 
 ---
 
@@ -111,6 +111,6 @@ Targeting **M.Sc. → PhD** in Industrial Engineering at top US research program
 
 <div align="center">
 
-*"All models are wrong, but some are useful."* — George Box
+*"All models are wrong, but some are useful."* - George Box
 
 </div>
