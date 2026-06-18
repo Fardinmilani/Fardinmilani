@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-fardinmilani.ir-00D9FF?style=flat-square&labelColor=0d1117)](https://fardinmilani.ir)
 &nbsp;
-[![Email](https://img.shields.io/badge/📬_Email-Contact_Me-6E40C9?style=flat-square&labelColor=0d1117)](mailto:fardin@fardinmilani.ir)
+[![Email](https://img.shields.io/badge/📬_Email-Contact_Me-6E40C9?style=flat-square&labelColor=0d1117)](mailto:Fardin.milani.user@gmail.com)
 
 </div>
 
